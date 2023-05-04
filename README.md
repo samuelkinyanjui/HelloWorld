@@ -1,33 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
- 
   <br/>
 
   <h3><b>Hellow world project</b></h3>
@@ -89,7 +61,7 @@ HTML and css
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li>>No database is needed</li>
   </ul>
 </details>
 
@@ -97,9 +69,12 @@ HTML and css
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+The website show greetings
+The greetings are centered on the page
+In blue backgound
+The greetings are on white font colour
 
-- **My best colour**
+- *My best colour*
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -190,9 +165,9 @@ Use amazon or inhouse hosting for deployment
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-Android based site
+
+Make the website better in personal relations
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -212,7 +187,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Use the project to buld your own website
+>Use the project to buld your own website
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
